@@ -1,0 +1,15 @@
+/Users/Marcio/_PrjTestes/console6/bin/Debug/net6.0/console6
+/Users/Marcio/_PrjTestes/console6/bin/Debug/net6.0/console6.deps.json
+/Users/Marcio/_PrjTestes/console6/bin/Debug/net6.0/console6.runtimeconfig.json
+/Users/Marcio/_PrjTestes/console6/bin/Debug/net6.0/console6.dll
+/Users/Marcio/_PrjTestes/console6/bin/Debug/net6.0/ref/console6.dll
+/Users/Marcio/_PrjTestes/console6/bin/Debug/net6.0/console6.pdb
+/Users/Marcio/_PrjTestes/console6/obj/Debug/net6.0/console6.csproj.AssemblyReference.cache
+/Users/Marcio/_PrjTestes/console6/obj/Debug/net6.0/console6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Marcio/_PrjTestes/console6/obj/Debug/net6.0/console6.AssemblyInfoInputs.cache
+/Users/Marcio/_PrjTestes/console6/obj/Debug/net6.0/console6.AssemblyInfo.cs
+/Users/Marcio/_PrjTestes/console6/obj/Debug/net6.0/console6.csproj.CoreCompileInputs.cache
+/Users/Marcio/_PrjTestes/console6/obj/Debug/net6.0/console6.dll
+/Users/Marcio/_PrjTestes/console6/obj/Debug/net6.0/ref/console6.dll
+/Users/Marcio/_PrjTestes/console6/obj/Debug/net6.0/console6.pdb
+/Users/Marcio/_PrjTestes/console6/obj/Debug/net6.0/console6.genruntimeconfig.cache
